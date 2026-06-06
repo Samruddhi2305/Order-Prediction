@@ -5,7 +5,7 @@ This repository contains a Jupyter Notebook implementation for predicting restau
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 
 A major challenge for restaurants listed on food delivery platforms like Zomato is managing inventory and staffing resources. Over-staffing or over-stocking leads to food wastage and higher overheads, while under-staffing leads to delayed orders and poor customer reviews.
 
@@ -16,7 +16,7 @@ This project addresses this by:
 
 ---
 
-## 📈 Notebook Workflow
+## Notebook Workflow
 
 The analysis is structured inside [`oredr_prediction.ipynb`](oredr_prediction.ipynb) as follows:
 
@@ -43,7 +43,7 @@ The analysis is structured inside [`oredr_prediction.ipynb`](oredr_prediction.ip
 
 ---
 
-## ⚙️ Installation & Usage
+## Installation & Usage
 
 ### 1. Install Dependencies
 Make sure you have Python installed, then install the required libraries:
@@ -60,5 +60,5 @@ Open [`oredr_prediction.ipynb`](oredr_prediction.ipynb), ensure your dataset `or
 
 ---
 
-## 📄 License
+## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
